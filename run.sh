@@ -1,2 +1,2 @@
 
-Helo Ericsson
+Helo Ericsson > /tmp/report/

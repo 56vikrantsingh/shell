@@ -1,2 +1,2 @@
 #!/bin/bash
-echo "Hello Ericsson global"
+echo "hello, today is $(date)" > /tmp/jenkins_test
